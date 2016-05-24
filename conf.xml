@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conf>
+	<source>
+		<path>D:\airscape\server\airscape\target</path>
+		<file>airscape-server.war</file>
+	</source>
+	<target>
+		<path>D:\tomcat\apache-tomcat-7.0.56\webapps</path>
+		<file>airscape-server,airscape-server.war</file>
+	</target>
+	<run>D:\tomcat\apache-tomcat-7.0.56\bin\startup.bat</run>
+</conf>
